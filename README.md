@@ -27,7 +27,7 @@
 
 
 
-### 🛠 Languages and Tools:
+### 🛠 Languages and Tools
 <img align="left" alt="JavaScript" height ="40px"  src="https://img.icons8.com/color/128/000000/javascript.png">
 <img align="left" alt="Node.js" height ="50px" src="https://img.icons8.com/color/144/000000/nodejs.png">
 <img align="left" alt="React" height ="40px" src="https://img.icons8.com/officel/80/000000/react.png">
