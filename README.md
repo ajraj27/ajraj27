@@ -7,6 +7,10 @@
  <br/>
  <br/>
  
+ Hi, I'm Anuj Raj, a Full Stack developer 🚀 from India, Currently working as a Software Engineering intern [@Trifacta](https://www.https://www.trifacta.com/) 
+ 
+ Besides developing stuff, I enjoy listening music 🎸 and discussing cricket 🏏.
+ 
  <img alt="Night Coding" src="night-coding.gif" align="right" width="400px"/>
 
  
