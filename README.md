@@ -7,6 +7,9 @@
  <br/>
  <br/>
  
+ <img alt="Night Coding" src="night-coding.gif" align="right" width="400px"/>
+
+ 
  ### 👨🏻‍💻 &nbsp;About Me
 
 - 💡 &nbsp;Software Engineering Intern [@Trifacta](https://www.trifacta.com/).
@@ -19,7 +22,6 @@
 - 🕺 &nbsp;In my free time, I love to read, dance, play chess or watch cricket.
 <br/>
 
-<img alt="Night Coding" src="night-coding.gif" align="right"/>
 
 
 ### 🛠 Languages and Tools:
