@@ -56,7 +56,7 @@
 </p>
 <br/>
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/ajraj27/ajraj27) :pencil:
+:pushpin: Liked this introduction, You can also make similar for yourself. Star and Fork this [README](https://github.com/ajraj27/ajraj27) :pencil:
 
 
 
