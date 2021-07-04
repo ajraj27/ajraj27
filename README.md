@@ -18,7 +18,7 @@
 - 💡 &nbsp;Software Engineer [@Trifacta](https://www.trifacta.com/).
 - 💡 &nbsp;Software Engineering Intern [@Trifacta](https://www.trifacta.com/).
 - 🎓 &nbsp;Currently studying Information Technology at [IIIT Allahabad](https://www.iiita.ac.in/).
-- 🌱 &nbsp;Learning Docker and Kubernetes.
+- 🌱 &nbsp;Learning React.
 - 🧐 &nbsp;All of my projects are available on [Github](https://github.com).
 - 💬 &nbsp;Ask me anything tech related, I'm happy to help.
 - ✉️ &nbsp;You can shoot me an email at rajanuj.iiita@gmail.com ! I'll try to respond as soon as I can.
