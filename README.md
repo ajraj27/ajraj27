@@ -6,7 +6,7 @@
  <br/>
  <br/>
  
- Hi, I'm Anuj Raj, a Full Stack developer 🚀 from India, Currently working as a Software Engineering intern [@Trifacta](https://www.trifacta.com/) 
+ Hi, I'm Anuj Raj, a Full Stack developer 🚀 from India, Currently working as a Software Engineer [@Trifacta](https://www.trifacta.com/) 
  
  Besides developing stuff, I enjoy listening music 🎸 and discussing cricket 🏏.
  
@@ -15,6 +15,7 @@
  
  ### 👨🏻‍💻 &nbsp;About Me
 
+- 💡 &nbsp;Software Engineer [@Trifacta](https://www.trifacta.com/).
 - 💡 &nbsp;Software Engineering Intern [@Trifacta](https://www.trifacta.com/).
 - 🎓 &nbsp;Currently studying Information Technology at [IIIT Allahabad](https://www.iiita.ac.in/).
 - 🌱 &nbsp;Learning Docker and Kubernetes.
