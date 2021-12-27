@@ -15,7 +15,7 @@
  
  ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;Software Engineer [@Trifacta](https://www.trifacta.com/) [Present].
+- 💡 &nbsp;Software Engineer [@Trifacta](https://www.trifacta.com/) [July 2021 - Present].
 - 💡 &nbsp;Software Engineering Intern [@Trifacta](https://www.trifacta.com/) [Jan 2021 - June 2021].
 - 🎓 &nbsp;Graduated in Information Technology from [IIIT Allahabad](https://www.iiita.ac.in/) [2017 - 2021].
 - 🌱 &nbsp;Learning React.
