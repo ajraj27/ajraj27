@@ -6,7 +6,7 @@
  <br/>
  <br/>
  
- Hi, I'm Anuj Raj, a Full Stack developer 🚀 from India, Currently working as a Software Engineer [@Trifacta](https://www.trifacta.com/).
+ Hi, I'm Anuj Raj, a developer 🚀 from India, Currently working as a Software Engineer [@Alteryx](https://www.alteryx.com/).
  
  Besides developing stuff, I enjoy listening music 🎸 and discussing cricket 🏏.
  
