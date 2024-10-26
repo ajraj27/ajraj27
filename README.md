@@ -15,14 +15,14 @@
  
  ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;Software Engineer [@Trifacta](https://www.trifacta.com/) [July 2021 - Present].
+- 💡 &nbsp;Software Engineer [@Alteryx](https://www.alteryx.com/) [July 2021 - Present].
 - 💡 &nbsp;Software Engineering Intern [@Trifacta](https://www.trifacta.com/) [Jan 2021 - June 2021].
 - 🎓 &nbsp;Graduated in Information Technology from [IIIT Allahabad](https://www.iiita.ac.in/) [2017 - 2021].
-- 🌱 &nbsp;Learning React.
+- 🌱 &nbsp;Learning System Design.
 - 🧐 &nbsp;All of my projects are available on [Github](https://github.com).
 - 💬 &nbsp;Ask me anything tech related, I'm happy to help.
 - ✉️ &nbsp;You can shoot me an email at rajanuj.iiita@gmail.com ! I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1ZeV0iyXSxGlxGmVICPbxYWK7cQA_KVDi/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1wYKkQPgVHjN9L96EYpzDnK9WzFMpCtv1/view) for more details about me. I'm open to feedback and suggestions!
 - 🕺 &nbsp;In my free time, I love to read, dance, play chess or watch cricket.
 <br/>
 
