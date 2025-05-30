@@ -22,7 +22,7 @@
 - 🧐 &nbsp;All of my projects are available on [Github](https://github.com).
 - 💬 &nbsp;Ask me anything tech related, I'm happy to help.
 - ✉️ &nbsp;You can shoot me an email at rajanuj.iiita@gmail.com ! I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1wYKkQPgVHjN9L96EYpzDnK9WzFMpCtv1/view) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1jboj4InthsNZePWwaM1T80roMiPtTzZF/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 - 🕺 &nbsp;In my free time, I love to read, dance, play chess or watch cricket.
 <br/>
 
