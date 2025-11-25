@@ -15,8 +15,7 @@
  
  ### 👨🏻‍💻 &nbsp;About Me
 
-- 💡 &nbsp;Software Engineer [@Linkedin](https://www.linkedin.com/) [Nov 2025 - Present].
-- 💡 &nbsp;Software Engineer [@Alteryx](https://www.alteryx.com/) [July 2021 - Oct 2025].
+- 💡 &nbsp;Software Engineer [@Linkedin](https://www.linkedin.com/) [Oct 2025 - Present].
 - 💡 &nbsp;Software Engineering Intern [@Trifacta](https://www.trifacta.com/) [Jan 2021 - June 2021].
 - 🎓 &nbsp;Graduated in Information Technology from [IIIT Allahabad](https://www.iiita.ac.in/) [2017 - 2021].
 - 🌱 &nbsp;Learning System Design.
